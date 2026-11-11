@@ -1,11 +1,11 @@
-<p align="center">
-  <img src="assets/lera-sunset-banner.jpg" alt="Hi, I’m Lera. Full-stack engineer — thoughtful systems, real-world impact." width="100%" />
-</p>
+<a href="https://suanara.dev"><img src="assets/lera-sunset-banner.jpg" alt="Hi, I’m Lera. Full-stack engineer — thoughtful systems, real-world impact. Visit suanara.dev." width="100%" /></a>
 
-<p align="center">
-  <a href="https://suanara.dev"><strong>Visit Suanara ↗</strong></a>
-  &nbsp; · &nbsp; Full-stack engineering &nbsp; · &nbsp; M.S. Computer Science
-</p>
+<img src="assets/profile-dashboard.svg" alt="About Lera, production and Suanara tech stacks, marketplace engineering, payments, reliability and developer automation. Text version below." width="100%" />
+
+<p align="center"><a href="https://suanara.dev"><strong>Explore Suanara →</strong></a> · <a href="https://github.com/leracraft/portfolio">Portfolio source</a></p>
+
+<details>
+<summary>About &amp; technology — text version</summary>
 
 ## 🌱 About
 
@@ -51,3 +51,5 @@ AWS · Docker · Terraform · GitHub Actions · Sentry · Playwright · Browserb
 ---
 
 <p align="center"><em>Thoughtful interfaces. Reliable systems. Always something worth learning.</em></p>
+
+</details>

@@ -1,0 +1,84 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="900" viewBox="0 0 1100 900" role="img" aria-labelledby="title desc">
+<title id="title">Lera Suanu — full-stack engineering</title><desc id="desc">Production marketplace engineering, payments, reliability and AI-assisted automation. Suanara stack: Next.js, TypeScript, Tailwind CSS, Framer Motion, Vercel, Prisma and Resend.</desc>
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0e1119"/><stop offset="1" stop-color="#19131e"/></linearGradient><linearGradient id="card" x2="1" y2="1"><stop stop-color="#302034"/><stop offset="1" stop-color="#191720"/></linearGradient><linearGradient id="sunset" x2="0" y2="1"><stop stop-color="#382345"/><stop offset=".55" stop-color="#bf6b78"/><stop offset="1" stop-color="#f4ae83"/></linearGradient></defs>
+<rect width="1100" height="900" rx="14" fill="url(#bg)"/>
+<g font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif">
+<text x="28" y="46" font-size="25" fill="#f0a58e" font-weight="400">✧</text>
+<text x="65" y="46" font-size="25" fill="#faf4f4" font-weight="650">About</text>
+<path d="M28 61 H1072" stroke="#644352"/>
+<path d="M30 81 V178" stroke="#e69d8c" stroke-width="3"/>
+<text x="48" y="96" font-size="19" fill="#e7dce5" font-weight="400">I build features people use, connect the systems behind them,</text>
+<text x="48" y="125" font-size="19" fill="#e7dce5" font-weight="400">and investigate what happens when production has other plans.</text>
+<text x="48" y="164" font-size="19" fill="#e7dce5" font-weight="400">Full-stack software engineer · M.S. Computer Science</text>
+<rect x="760" y="26" width="312" height="166" rx="12" fill="url(#card)" stroke="#594052"/>
+<text x="781" y="59" font-size="14" fill="#eeb29f" font-weight="650">CURRENT FOCUS</text>
+<text x="781" y="91" font-size="14" fill="#d38eae" font-weight="600">01</text>
+<text x="816" y="91" font-size="17" fill="#e9e5ec" font-weight="400">Production marketplaces</text>
+<text x="781" y="126" font-size="14" fill="#d38eae" font-weight="600">02</text>
+<text x="816" y="126" font-size="17" fill="#e9e5ec" font-weight="400">Reliable payments</text>
+<text x="781" y="161" font-size="14" fill="#d38eae" font-weight="600">03</text>
+<text x="816" y="161" font-size="17" fill="#e9e5ec" font-weight="400">Practical AI automation</text>
+<text x="28" y="237" font-size="25" fill="#f0a58e" font-weight="400">◇</text>
+<text x="65" y="237" font-size="25" fill="#faf4f4" font-weight="650">Tech Stack</text>
+<path d="M28 252 H1072" stroke="#644352"/>
+<text x="30" y="282" font-size="13" fill="#cbaaC0" font-weight="650">PRODUCTION ENGINEERING</text>
+<rect x="30" y="299" width="132" height="38" rx="8" fill="#201c29" stroke="#554153"/>
+<text x="42" y="325" font-size="16" fill="#74d3e9" font-weight="700">R</text>
+<text x="72" y="324" font-size="17" fill="#f5eaf1" font-weight="500">React</text>
+<rect x="170" y="299" width="162" height="38" rx="8" fill="#201c29" stroke="#554153"/>
+<text x="182" y="325" font-size="16" fill="#65a9ee" font-weight="700">TS</text>
+<text x="212" y="324" font-size="17" fill="#f5eaf1" font-weight="500">TypeScript</text>
+<rect x="340" y="299" width="143" height="38" rx="8" fill="#201c29" stroke="#554153"/>
+<text x="352" y="325" font-size="16" fill="#a4ce72" font-weight="700">JS</text>
+<text x="382" y="324" font-size="17" fill="#f5eaf1" font-weight="500">Node.js</text>
+<rect x="491" y="299" width="173" height="38" rx="8" fill="#201c29" stroke="#554153"/>
+<text x="503" y="325" font-size="16" fill="#8eb8d9" font-weight="700">PG</text>
+<text x="533" y="324" font-size="17" fill="#f5eaf1" font-weight="500">PostgreSQL</text>
+<rect x="672" y="299" width="125" height="38" rx="8" fill="#201c29" stroke="#554153"/>
+<text x="684" y="325" font-size="16" fill="#ed8b9b" font-weight="700">R</text>
+<text x="714" y="324" font-size="17" fill="#f5eaf1" font-weight="500">Redis</text>
+<rect x="805" y="299" width="123" height="38" rx="8" fill="#201c29" stroke="#554153"/>
+<text x="817" y="325" font-size="16" fill="#f1ba77" font-weight="700">A</text>
+<text x="847" y="324" font-size="17" fill="#f5eaf1" font-weight="500">AWS</text>
+<rect x="936" y="299" width="133" height="38" rx="8" fill="#201c29" stroke="#554153"/>
+<text x="948" y="325" font-size="16" fill="#b4a0fa" font-weight="700">S</text>
+<text x="978" y="324" font-size="17" fill="#f5eaf1" font-weight="500">Stripe</text>
+<text x="30" y="378" font-size="13" fill="#e5b5c8" font-weight="650">SUANARA · PERSONAL PORTFOLIO</text>
+<rect x="30" y="395" width="135" height="38" rx="8" fill="#201c29" stroke="#554153"/>
+<text x="42" y="421" font-size="16" fill="#eee5ef" font-weight="700">N</text>
+<text x="72" y="420" font-size="17" fill="#f5eaf1" font-weight="500">Next.js</text>
+<rect x="173" y="395" width="182" height="38" rx="8" fill="#201c29" stroke="#554153"/>
+<text x="185" y="421" font-size="16" fill="#79d8dc" font-weight="700">~</text>
+<text x="215" y="420" font-size="17" fill="#f5eaf1" font-weight="500">Tailwind CSS</text>
+<rect x="363" y="395" width="205" height="38" rx="8" fill="#201c29" stroke="#554153"/>
+<text x="375" y="421" font-size="16" fill="#e9a1d0" font-weight="700">M</text>
+<text x="405" y="420" font-size="17" fill="#f5eaf1" font-weight="500">Framer Motion</text>
+<rect x="576" y="395" width="140" height="38" rx="8" fill="#201c29" stroke="#554153"/>
+<text x="588" y="421" font-size="16" fill="#f5eaf1" font-weight="700">▲</text>
+<text x="618" y="420" font-size="17" fill="#f5eaf1" font-weight="500">Vercel</text>
+<rect x="724" y="395" width="141" height="38" rx="8" fill="#201c29" stroke="#554153"/>
+<text x="736" y="421" font-size="16" fill="#b0c9c3" font-weight="700">◈</text>
+<text x="766" y="420" font-size="17" fill="#f5eaf1" font-weight="500">Prisma</text>
+<rect x="873" y="395" width="140" height="38" rx="8" fill="#201c29" stroke="#554153"/>
+<text x="885" y="421" font-size="16" fill="#e6d7ed" font-weight="700">R</text>
+<text x="915" y="420" font-size="17" fill="#f5eaf1" font-weight="500">Resend</text>
+<text x="31" y="465" font-size="16" fill="#baacbf" font-weight="400">TypeScript across both · Docker · Terraform · Sentry · GitHub Actions · Playwright · Browserbase</text>
+<text x="28" y="524" font-size="25" fill="#f0a58e" font-weight="400">✧</text>
+<text x="65" y="524" font-size="25" fill="#faf4f4" font-weight="650">Production Work</text>
+<path d="M28 539 H1072" stroke="#644352"/>
+<rect x="28" y="554" width="1044" height="222" rx="12" fill="url(#card)" stroke="#594052"/>
+<rect x="29" y="555" width="237" height="220" rx="12" fill="url(#sunset)"/><circle cx="189" cy="620" r="24" fill="#f8bc94" opacity=".75"/><path d="M30 694L88 639 148 696 203 654 266 706V775H30Z" fill="#4f3556"/><path d="M30 738L94 681 171 737 226 694 266 728V775H30Z" fill="#2e233e"/><path d="M42 775V625M37 646l5-17 6 17M31 665l11-24 13 24M28 689l14-34 18 34M211 775V682M195 728l16-32 17 32M190 750l21-37 23 37" fill="#171a29" stroke="#171a29" stroke-width="4"/>
+<path d="M291 575V754" stroke="#ca8a9c"/>
+<text x="316" y="594" font-size="23" fill="#efa78f" font-weight="400">•</text>
+<text x="339" y="594" font-size="20" fill="#faf3f5" font-weight="650">Production marketplace engineering</text>
+<text x="339" y="620" font-size="17" fill="#d6c6d7" font-weight="400">Buyer and seller features, from implementation to release.</text>
+<text x="316" y="662" font-size="23" fill="#efa78f" font-weight="400">•</text>
+<text x="339" y="662" font-size="20" fill="#faf3f5" font-weight="650">Payments &amp; checkout</text>
+<text x="339" y="688" font-size="17" fill="#d6c6d7" font-weight="400">Stripe integrations, prepayment flows and transaction integrity.</text>
+<text x="316" y="730" font-size="23" fill="#efa78f" font-weight="400">•</text>
+<text x="339" y="730" font-size="20" fill="#faf3f5" font-weight="650">Reliability &amp; observability</text>
+<text x="339" y="756" font-size="17" fill="#d6c6d7" font-weight="400">Production troubleshooting, Sentry monitoring and alerting.</text>
+<text x="30" y="822" font-size="25" fill="#efa78f" font-weight="400">✧</text>
+<text x="65" y="822" font-size="22" fill="#faf3f5" font-weight="650">AI-Assisted Automation</text>
+<text x="65" y="857" font-size="18" fill="#d6c6d7" font-weight="400">GitHub Actions + Claude Code for error triage. Playwright for automated QA.</text>
+</g></svg>
